@@ -34,7 +34,7 @@
 
 - **NoteHub** — Full-stack notes application  
   🧩 Next.js · Node.js · Express · MongoDB  
-  🔗 Live: https://my-notehub.vercel.app/
+  🔗 Repo: https://github.com/Tetiana-Onofriichuk/my-notehub
 
 - **Clothica** — E-commerce clothing store  
   🧩 Next.js · Zustand · Responsive UI  
@@ -42,7 +42,9 @@
 
 - **Campers** — Camper rental marketplace  
   🧩 Next.js · Filters · Favorites · Booking  
-  🔗 Repo: (додай, якщо є)
+  🔗 Repo: https://github.com/Tetiana-Onofriichuk/Campers-
+
+
 
 ---
 
