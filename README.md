@@ -50,6 +50,6 @@
 
 ## 📫 Contact Me
 
-- 💬 Telegram: https://t.me/ТВІЙ_НІК
-- 💼 LinkedIn: (додай лінк)
-- 📧 Email: (за бажанням)
+- 💬 Telegram: https://t.me/Tetiana_Onofriichuk
+- 💼 LinkedIn: https://www.linkedin.com/in/tetiana-onofriichuks/
+- 📧 Email:korostijtatiana@gmail.com
